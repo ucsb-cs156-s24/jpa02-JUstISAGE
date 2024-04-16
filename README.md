@@ -3,7 +3,7 @@
 Repo: https://ucsb-cs156-s24/jpa02-JUstISAGE
 
 
-Deployed at: https://jpa02-justisage.dokku-09.cs.ucsb.edu
+Deployed at: http://jpa02-justisage.dokku-09.cs.ucsb.edu
 
 
 # About this repo

@@ -1,6 +1,6 @@
 # jpa02-JUstISAGE
 
-Repo: https://ucsb-cs156-s24/jpa02-JUstISAGE
+Repo: https://github.com/ucsb-cs156-s24/jpa02-JUstISAGE
 
 
 Deployed at: http://jpa02-justisage.dokku-09.cs.ucsb.edu
